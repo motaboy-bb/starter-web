@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Piotr Wydymus <twitter>
+	Piotr Wydymus
+	pwydymus@redhat.com
+	SDETII. DevOps
 
 # THANKS
 
