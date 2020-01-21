@@ -8,6 +8,8 @@ Hi, I am modifiing the file before rebase.
 	Piotr Wydymus
 	pwydymus@redhat.com
 	SDETII
+	DevOps Engineer Level III
+	IT Organization
 
 # THANKS
 
