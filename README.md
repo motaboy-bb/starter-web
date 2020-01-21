@@ -8,6 +8,8 @@ A lot of Lectures are already submitted
 ## GIT & GITHub Training
 Thsi is the famous and one of the Best Training Course in DevOps
 
+Adding GIT Revbase lectures in GIT Advance part
+
 ## Contribution
 Fork the Repo and raise pull request for review.
 
